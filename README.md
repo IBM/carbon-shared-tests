@@ -1,6 +1,6 @@
 # Project Overview
 
-A test suite of re-usable UI unit tests aligned to the Carbon Design System. Tests focus on user interactions to verify consistent behavior across implementations. The suite is UI and testing framework agnostic using the Exported Tests architecture. This project is a collaboration between teams creating and using Carbon components.
+A test suite of re-usable UI unit tests aligned to the [Carbon Design System](https://carbondesignsystem.com/). Tests focus on user interactions to verify consistent behavior across implementations. The suite is UI and testing framework agnostic using the [Exported Tests](https://github.com/IBM/exported-tests#project-overview) architecture. This project is a collaboration between teams creating and using Carbon components.
 
 ## Getting started
 
